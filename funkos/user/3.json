@@ -1,0 +1,12 @@
+{
+  "ID": 3,
+  "name": "Funko Pop Batman",
+  "description": "Figura de Batman",
+  "type": "Pop",
+  "gender": "Male",
+  "franchise": "DC Comics",
+  "pieceNumber": 125,
+  "exclusive": true,
+  "specialFeatures": "Brilla en la oscuridad",
+  "value": 25
+}

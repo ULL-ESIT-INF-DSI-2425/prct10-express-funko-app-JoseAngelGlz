@@ -1,0 +1,12 @@
+{
+  "ID": 1,
+  "name": "Spiderman",
+  "description": "Spiderman Funko",
+  "type": "Pop!",
+  "gender": "Animación",
+  "franchise": "Marvel: Guardians of the Galaxy",
+  "pieceNumber": 1,
+  "exclusive": false,
+  "specialFeatures": "",
+  "value": 10
+}

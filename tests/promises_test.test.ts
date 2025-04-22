@@ -1,5 +1,5 @@
 import { describe, test, expect } from "vitest";
-import { coordinatesInfoPromises } from "../src/promises_test.js";
+import { coordinatesInfoPromises } from "../src/ejercicios-teoria/promises_test.js";
 
 describe("Asynchronous function coordinatesInfoPromises", () => {
   test("coordinatesInfoPromises should get weather information", () => {
