@@ -7,7 +7,7 @@
     "doc": "typedoc",
     "coverage": "vitest --coverage --coverage.include src/**/*.ts",
     "build": "tsc",
-    "start": "node dist/ejercicio-funkos/server.js",
+    "start": "node dist/modi/spells.js",
     "test": "vitest"
   },
   "repository": {
